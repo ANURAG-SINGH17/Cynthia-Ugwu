@@ -318,4 +318,10 @@ footer{
         gap: 4vw;
         align-items: center;
       }
+      #mouseCir{
+        display: none;
+      }
+      #subscribe {
+        display: none;
+      }
 }
